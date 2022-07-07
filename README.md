@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yesung Park 👋
 
 **⚒️ Tech Skills**
 <!--
