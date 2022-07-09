@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YesungPark&fontSize=70&animation=fadeIn)
 
-<h2 align="center">⚒️ Tech Skill</h2> 
+<h2 align="center">⚒️ Tech Stack</h2> 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
